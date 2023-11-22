@@ -7,8 +7,8 @@ Web Developer
 Full Stack Web Development student at Microverse and passionate about software development and continuous improvement.
 
 * 🖥️  See my portfolio at [My Portfolio](https://drissa.netlify.app/)
-* 🚀  I'm currently working on [Faani App]("https://www.github.com/touredri/faani")
-* 🧠  I'm learning React and Redux
+* 🚀  I'm currently working on [Faani App](https://www.github.com/touredri/faani)
+* 🧠  I'm learning Flutter and Spring Boot
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.github.com/touredri" target="_blank" rel="noreferrer"><img
